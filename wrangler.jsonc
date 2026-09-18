@@ -7,8 +7,8 @@
   "d1_databases": [
     {
       "binding": "DB",
-      "database_name": "cloudotp-db",
-      "database_id": "8d6bedb9-110c-4f43-876f-3f6bc0eec2ca",
+      "database_name": "cloudotp",
+      "database_id": "9811d95a-d8b7-47b1-ac49-08bbb8932724",
       "migrations_dir": "migrations"
     }
   ],
